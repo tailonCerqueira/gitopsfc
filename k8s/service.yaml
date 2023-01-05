@@ -1,4 +1,4 @@
-apiVersion: 1
+apiVersion: apps/v1
 kind: Server
 metadata:
   name: goserver-service
